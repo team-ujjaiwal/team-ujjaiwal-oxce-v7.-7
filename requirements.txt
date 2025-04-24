@@ -4,3 +4,4 @@ requests==2.31.0
 PyJWT==2.8.0
 protobuf==5.26.1
 pycryptodome
+protobuf-decoder
